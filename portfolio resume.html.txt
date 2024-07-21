@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kartik's Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: white;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            background: #333;
+            color: white;
+            padding: 10px;
+            border-radius: 4px;
+        }
+        .content {
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Kartik</h1>
+
+        <div class="section">
+            <div class="section-title">
+                <h2>Education</h2>
+            </div>
+            <div class="content">
+                <p><strong>Manav Rachna University</strong></p>
+                <p>Pursuing Bachelor of Technology (B.Tech)</p>
+                <p>Complete Graduation: [2026]</p>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">
+                <h2>Skills</h2>
+            </div>
+            <div class="content">
+                <ul>
+                    <li>HTML & CSS</li>
+                    <li>Python</li>
+                    <li>Machine learningh</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">
+                <h2>Projects</h2>
+            </div>
+            <div class="content">
+                <p><strong>1.MoodBot: Chatbot on Music Recommendation Based on Mood</strong></p>
+                <p>Music can be used to express emotions such as happiness, sadness, anger, fear, and surprise. Humans listen to music according to their mood. Music plays an important role in changing mood. The main objective of this study is to develop a chatbot that recommends music by simply detecting facial expressions. However, if someone is in a sad mood and wants to listen to music, they should be searched. To overcome this, a chatbot is proposed which recommends music and plays according to detected facial expressions. Kids can also have a good time with this and they will be entertaining.</p>
+            </div>
+        </div>
+        <div class="content">
+            <p><strong>2.OBJECT DETECTION USING YOLO</strong></p>
+            <p>Object detection in real-time video streams is important for many applications, from surveillance and security to personal control and augmented reality.. This provides in-depth comparison of two variations of the YOLO (You Only See One) model: YOLOv3 and YOLOv8n, focusing on their  accuracy and speed of operation. Known for its real-time capabilities, YOLOv3 sets the standard for efficient object detection by working efficiently in one go through neural networks. But lateriterations like YOLOv8n build on this foundation and improve the functionality even further.
+
+            </p>
+        </div>
+    </div>
+
+        <div class="section">
+            <div class="section-title">
+                <h2>Contact</h2>
+            </div>
+            <div class="content">
+                <p>Email: kartikvashisth55@gmail.com</p>
+                <p>Phone: +91-8295271395</p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/kartik-vashisth-500a76255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">yourprofile</a></p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
