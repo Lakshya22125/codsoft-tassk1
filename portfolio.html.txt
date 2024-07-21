@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Kartik</h1>
+        <p class="tagline">Web Developer | Designer | Programmer</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <img src="c:\Users\kartik\OneDrive\Pictures\kartikhtml.jpg" alt="Your Image">
+        <p>I am currently pursuing a B.Tech in Computer Science with a specialization in Artificial Intelligence and Machine Learning (AIML) with Xebia. I have a strong passion for developing innovative solutions and possess hands-on experience in full-stack web development. My key skills include HTML, CSS, Machine learning, and Python. I have successfully completed several projects that demonstrate my ability to design and develop web applications from scratch. Additionally, I have a keen interest in AI and ML, which I integrate into my projects to create intelligent and efficientsystems.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML & CSS</li>
+            <li>Machine learning</li>
+            <li>Python</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>1.MoodBot: Chatbot on Music Recommendation Based on Mood</h3>
+            <img src="c:\Users\kartik\OneDrive\Pictures\Screenshots\Screenshot 2024-06-26 100613.png" alt="Project 1">
+            <p>Music can be used to express emotions such as happiness, sadness, anger, fear, and surprise. Humans listen to music according to their mood. Music plays an important role in changing mood. The main objective of this study is to develop a chatbot that recommends music by simply detecting facial expressions. However, if someone is in a sad mood and wants to listen to music, they should be searched..</p>
+        </div>
+        <div class="project">
+            <h3>2.OBJECT DETECTION USING YOLO</h3>
+            <img src="c:\Users\kartik\OneDrive\Pictures\Screenshots\Screenshot 2024-06-26 104129.png" alt="Project 2">
+            <p>Object detection in real-time video streams is important for many applications, from surveillance and security to personal control and augmented reality.. This provides in-depth comparison of twovariations of the YOLO (You Only See One) model: YOLOv3 and YOLOv8n, focusing on their accuracy and speed of operation. Known for its real-time capabilities, YOLOv3 sets the standard for efficient object detection by working efficiently in one go through neural networks. But later iterations like YOLOv8n build on this foundation and improve the functionality even further. Derived from detailed analysis of measurement data such as COCO and PASCAL VOC, this studyuses indicators such as average accuracy (mAP) and velocity measurement to evaluate the
+             performance of these two models..</p>
+        </div>
+    </section>
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <a href="resume.html" download>Download My Resume</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>kartikvashisth55@gmail.com</p>
+        <p>Phone: 8295271395</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 kartik All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Kartik</title>
+    <link rel="stylesheet" href="resume.css">
+</head>
+<body>
+    
